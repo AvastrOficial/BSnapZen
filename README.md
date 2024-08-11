@@ -35,6 +35,6 @@ https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js
 Es una forma simple de obtener imágenes aleatorias de Unsplash y mostrarlas en una página web
 
 ## pagina web funcionado el codigo conpartido : 
-https://fileboxbsz.foroactivo.com/h7-bsnapzen	
+https://toolapikey.foroactivo.com/h7-bsnapzen	
 
 ![image](https://github.com/AvastrOficial/BSnapZen/assets/91764815/1c0279ea-9672-440c-817d-1141037b67b3)
